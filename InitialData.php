@@ -1,12 +1,1 @@
-<?php
-//1、初始化标识
-    echo"InitializeSign,";
-//2、APP版本
-    echo"1.5.2,";
-//3、当前域名
-    echo"szlfspr.com,";
-//4、安卓包更新路径
-    echo"http://www.szlfspr.com/Files/cosplay-pk.apk,";
-//5、苹果包更新路径
-    echo"itms-services://?action=download-manifest&url=https://gitee.com/shenzhen_and_hebei/plistsave/raw/master/cpk.plist,";
-?>
+InitializeSign,1.5.2,szlfspr.com,http://www.szlfspr.com/Files/cosplay-pk.apk,itms-services://?action=download-manifest&url=https://gitee.com/shenzhen_and_hebei/plistsave/raw/master/cpk.plist,
