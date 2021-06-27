@@ -1,5 +1,5 @@
 InitializeSign
-2.0.3
+2.0.6
 cosplay-pk.com
-https://cn.cosplay-pk.com/Files/cosplay-pk.apk
+https://play.google.com/store/apps/details?id=com.CPKStudio.CosplayPK3
 itms-services://?action=download-manifest&url=https://gitee.com/shenzhen_and_hebei/plistsave/raw/master/cpk.plist
